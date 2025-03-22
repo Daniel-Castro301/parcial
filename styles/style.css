@@ -16,7 +16,7 @@ h4 #n1{
 tr{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h3 #titulos{
+.titulos{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h2{
@@ -24,4 +24,16 @@ h2{
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:link, a:visited {
+    background-color: #cf88c0;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover, a:active {
+    background-color: rgb(67, 23, 73);
 }

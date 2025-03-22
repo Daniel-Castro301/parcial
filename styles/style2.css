@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(241, 87, 49);
+}
+head{
+    background-color: rgb(241, 87, 49);
+}
+table, th, td {
+    border: 1px solid;
+}
+h1{
+    color: azure;
+    font-family: cursive;
+    text-align: center;
+}
+h4 #n1{
+    color: azure;
+    font-family: cursive;
+    text-align: center;
+}
+tr{
+    font-family: cursive;
+}
+.titulos{
+    color: azure;
+    font-family: cursive;
+    text-align: center;
+}
+h2{
+    color: azure;
+    font-family: cursive;
+    text-align: center;
+}
+p{
+    font-family: cursive;
+}
+table{
+    text-align: center;
+}
+a:link, a:visited {
+    background-color: #0011ff;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: cursive;
+}
+a:hover, a:active {
+    background-color: rgb(36, 30, 94);
+}
