@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(213, 196, 247);
+}
+head{
+    background-color: rgb(213, 196, 247);
+}
+table, th, td {
+    border: 1px solid;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4 #n1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+tr{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 #titulos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
